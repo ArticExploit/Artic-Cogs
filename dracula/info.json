@@ -1,0 +1,19 @@
+{
+    "author": [
+        "Artic"
+    ],
+    "description": "Random quote from the Dracula Flow videos.",
+    "disabled": false,
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+    "hidden": false,
+    "install_msg": "Thanks for installing <3",
+    "name": "Dracula",
+    "required_cogs": {},
+    "requirements": [],
+    "short": "Random quote from the Dracula Flow videos.",
+    "tags": [
+        "Quotes",
+        "DraculaFlow"
+    ],
+    "type": "COG"
+}
