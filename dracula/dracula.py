@@ -10,7 +10,7 @@ class Dracula(commands.Cog):
 
     def __init__(self, bot: Red):
         self.bot = bot
-        self.api_url = "https://articexploit.xyz/dracula/"
+        self.api_url = "https://articexploit.xyz/dracula/api.php"
         self.session = aiohttp.ClientSession()
 
     async def cog_unload(self):
