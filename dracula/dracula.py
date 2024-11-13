@@ -5,7 +5,7 @@ from redbot.core.bot import Red
 class Dracula(commands.Cog):
     """Cog for fetching random Dracula Flow quotes."""
 
-    __version__ = "1.0"
+    __version__ = "1.1"
     __author__ = "Artic"
 
     def __init__(self, bot: Red):
